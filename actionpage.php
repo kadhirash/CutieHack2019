@@ -2,7 +2,7 @@
 <html>
 <body>
 
-	Your zip code is:<?php echo $_GET["zip"]; ?><br>
+	Your zip code is:<?php echo $_POST["zip"]; ?><br>
 
 </body>
 </html>
