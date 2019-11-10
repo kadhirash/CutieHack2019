@@ -1,0 +1,10 @@
+'location' = Riverside, 'rest' = Arby's
+'location' = Riverside, 'rest' = Buffalo Wild Wings
+'location' = Riverside, 'rest' = Pizza Hut
+'location' = Riverside, 'rest' = Olive Garden
+'location' = Riverside, 'rest' = Village Inn
+'location' = Riverside, 'rest' = Carvel
+'location' = Riverside, 'rest' = Carrabba's Italian Grill
+'location' = Riverside, 'rest' = Hungry Howie's
+'location' = Riverside, 'rest' = Yalla Mediterranean
+'location' = Riverside, 'rest' = Slice
