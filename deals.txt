@@ -1,10 +1,10 @@
-'location' = Riverside, 'rest' = Arby's
-'location' = Riverside, 'rest' = Buffalo Wild Wings
-'location' = Riverside, 'rest' = Pizza Hut
-'location' = Riverside, 'rest' = Olive Garden
-'location' = Riverside, 'rest' = Village Inn
-'location' = Riverside, 'rest' = Carvel
-'location' = Riverside, 'rest' = Carrabba's Italian Grill
-'location' = Riverside, 'rest' = Hungry Howie's
-'location' = Riverside, 'rest' = Yalla Mediterranean
-'location' = Riverside, 'rest' = Slice
+'location' = Riverside, 'rest' = Arby's, 'deals' = Sign up for the chain's email list and you'll get a coupon that earns you a free signature sandwich (Arby's Reuben, Loaded Italian, Smokehouse Brisket, or any of its Gyros) with the purchase of a drink. The coupon lasts for just a week, though.
+'location' = Riverside, 'rest' = Buffalo Wild Wings, 'deals' = Every Tuesday, it's BOGO traditional wings for the creatively-named Wings Tuesday, which B-Dubs recently resurrected from the dead. 
+'location' = Riverside, 'rest' = Pizza Hut, 'deals' = Grab a large three-topping pizza for $7.99 when you pick it up.
+'location' = Riverside, 'rest' = Olive Garden, 'deals' = Olive Garden has made its $5 Take Home promotion a permanent offer. When you order an entrée in-restaurant, you can get up to five $5 Take Home orders to go along with your order. Olive Garden, however, will not clean out your office microwave when you reheat it for lunch the next day. 
+'location' = Riverside, 'rest' = Village Inn, 'deals' = Make an entrée purchase when dining in, and you're getting a free slice of pie every Wednesday at Village Inn. Also, kids eat free every Monday and Tuesday with the purchase of an adult entrée. 
+'location' = Riverside, 'rest' = Carvel, 'deals' = Grab an ice cream sundae and it’ll throw in another one for free because hump day calls for double the sundaes.
+'location' = Riverside, 'rest' = Carrabba's Italian Grill, 'deals' = Get $10 off any bottle of wine. You can also get any pizza for $9.99
+'location' = Riverside, 'rest' = Hungry Howie's, 'deals' = Take home a $1 medium one-topping pizza with the purchase of a large one-topping pizza at regular price. Get a medium one with the code "LHP10."
+'location' = Riverside, 'rest' = Yalla Mediterranean, 'deals' = Kids eat free every Friday. You'll have to mention the deal to the cashier or use the code "KIDS" when ordering online. You'll get one free kids meal per adult entrée.
+'location' = Riverside, 'rest' = Slice, 'deals' = The pizza delivery app that encourages you to shop locally is offering $5 off your first order through the app with a minimum order of at least $5.50. Use the code "PARTYPIZZA."
